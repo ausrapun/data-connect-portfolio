@@ -10,7 +10,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     scope='playlist-read-private'  # Scope required to access private playlists
 ))
 
-# look up playlist by namo or id
+# look up playlist by name or id
 playlist_name_to_search = "PLAYLIST_NAME"
 
 playlist_id = "PLAYLIST_ID"
