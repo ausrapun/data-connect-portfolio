@@ -12,10 +12,9 @@ These projects are built to highlight:
 - Hands-on projects that address business challenges
 
 # Technology Stack
+```
 Programming Languages: Python, SQL
-Data Visualization: Matplotlib, Tableau, Looker Studio 
+Dashboarding Tools: Tableau, Looker Studio, Kibana, DataDog
 API Libraries: Requests, JSON, Rest APIs
-Data Processing: Pandas, Numpy
-Data Pipelining: DBT, Alteryx
-Dashboarding Tools: Kibana, DataDog
-Version Control: Git, GitHub
+Data Processing: Pandas, Numpy, Matplotlib, DBT, Alteryx
+```
