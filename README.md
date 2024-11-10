@@ -6,10 +6,10 @@ This repository is a collection of projects focused on data analysis, visualizat
 
 These projects are built to highlight:
 
-Expertise in building efficient data pipelines
-Data-driven decision-making insights
-API integrations for real-time data access and analysis
-Hands-on projects that address business challenges
+- Expertise in building efficient data pipelines
+- Data-driven decision-making insights
+- API integrations for real-time data access and analysis
+- Hands-on projects that address business challenges
 
 # Technology Stack
 Programming Languages: Python, SQL
